@@ -3,11 +3,12 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Machine Learning (CampusX)**
-- 💻 Experienced in **MERN Stack** development
-- 🧑‍💻 Solved **350+ problems on LeetCode**
-- 🎯 Interested in **building scalable web apps** and exploring **AI/ML**
+## 👨‍🎓 Education & Learning  
+- 🎓 **B.Tech in Computer Science & Engineering** (ABES Engineering College, Ghaziabad)  
+- 📚 Strong foundation in **Data Structures & Algorithms (DSA)**  
+- 🌱 Currently learning **Machine Learning** (CampusX, Python-based ML/AI curriculum)  
+- 🧩 Solved **350+ DSA questions on LeetCode**  
+- 🔍 Exploring **system design** and scalable architectures  
 
 ---
 
@@ -24,14 +25,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rimjhim-saxena/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/rsaxena4147" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://leetcode.com/u/Rimjhim_535/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_white_no_text.svg" width="40" height="40"/>
+  <a href="https://leetcode.com/rsaxena4147/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" width="40" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/profile/rsaxena4147" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/rimjhim_saxenaa" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
@@ -57,5 +58,6 @@
 ## Contribution Graph  
 
 <p align="center">
-  <img src="https://github.com/rsaxena4147/rsaxena4147/blob/output/github-contribution-grid-snake.svg" alt="snake graph"/>
+  <!-- Ye tabhi dikhega jab aap workflow setup karoge -->
+  <img src="https://raw.githubusercontent.com/rsaxena4147/rsaxena4147/output/github-contribution-grid-snake.svg" alt="snake graph"/>
 </p>
