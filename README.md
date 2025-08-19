@@ -1,68 +1,51 @@
-# 👋 Hi, I'm Rimjhim Saxena  
-
-💻 **Full-Stack Developer | Problem Solver | Machine Learning Enthusiast**  
-
----
-
-## 👨‍🎓 Education & Learning  
-- 🎓 **B.Tech in Computer Science & Engineering** (ABES Engineering College, Ghaziabad)  
-- 📚 Strong foundation in **Data Structures & Algorithms (DSA)**  
-- 🌱 Currently learning **Machine Learning** (CampusX, Python-based ML/AI curriculum)  
-- 🧩 Solved **350+ DSA questions on LeetCode**  
-- 🔍 Exploring **system design** and scalable architectures  
+<h1 align="center">Hi 👋, I'm Rimjhim Saxena</h1>
+<h3 align="center">Full-Stack Developer | Problem Solver | Emerging ML Enthusiast</h3>
 
 ---
 
-## 🛠️ Skills  
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python" height="40" />  
-
-**Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" height="40" />  
-
-**Databases**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" />  
-
-**Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40" />  
+## 🚀 About Me
+- 🌱 Currently learning **Machine Learning (CampusX)**
+- 💻 Experienced in **MERN Stack** development
+- 🧑‍💻 Solved **350+ problems on LeetCode**
+- 🎯 Interested in **building scalable web apps** and exploring **AI/ML**
 
 ---
 
-## 📊 GitHub Insights  
+## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsaxena4147&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaxena4147&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,bootstrap,tailwind,react,nodejs,express,mongodb,git" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rsaxena4147&theme=github-dark&hide_border=true" height="160"/>
-</p>  
-
----
-
-## 📌 Projects & Highlights  
-
-- 🌱 **[GreenChart](https://gogreen-frontend.onrender.com/)** –  
-  A sustainability-focused platform promoting green practices, built with the **MERN stack**.  
-
-- 🌍 **[Wanderlust](https://wanderlustproject-q3pk.onrender.com/)** –  
-  A travel accommodation platform (Airbnb-like) with **authentication, listings, and booking features**.  
-
-- 📝 **Notezy** –  
-  A note-taking application with **JWT + cookie-based authentication**, built using the **MERN stack**.  
-
-- 🧩 **350+ LeetCode Problems Solved** –  
-  Consistently practicing **Data Structures & Algorithms** to strengthen problem-solving ability.  
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimjhim-saxena/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://rimjhim-saxena-whqvyni.gamma.site/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:rimjhimsaxena535@gmail.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rimjhim-saxena/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/rsaxena4147" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://leetcode.com/rsaxena4147/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" width="40" height="40"/></a>
+  <a href="https://www.hackerrank.com/profile/rsaxena4147" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
 
 ---
 
-⭐️ From [rsaxena4147](https://github.com/rsaxena4147)
+## 📂 Projects  
+
+- 🌱 [**GreenChart**](https://gogreen-frontend.onrender.com/) — Eco-friendly platform to encourage sustainable living  
+- ✈️ [**Wanderlust**](https://wanderlustproject-q3pk.onrender.com/) — Travel accommodation booking web app  
+- 📝 [**Notezy**](https://github.com/rsaxena4147/Notezy) — A note-taking web app with authentication  
+- 🔥 **LeetCode** — Solved **350+ DSA problems**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rsaxena4147&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaxena4147&layout=compact&theme=tokyonight" alt="langs" height="150"/>
+</p>
+
+---
