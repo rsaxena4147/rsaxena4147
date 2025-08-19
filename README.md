@@ -1,45 +1,60 @@
-# 👋 Hi, I'm Rimjhim  
+# 👋 Hi, I'm Rimjhim Saxena  
 
-💻 **Full-Stack Developer | Problem Solver | Emerging Machine Learning Enthusiast**  
-
----
-
-## 🚀 About Me  
-- 🌱 Currently learning **Machine Learning** and improving my **DSA**  
-- 💡 Skilled in building projects with the **MERN stack**  
-- 🔍 Interested in scalable web apps & AI-driven solutions  
-- 📚 Following **CampusX** for ML learning  
-- 🎯 Goal: To grow as a developer bridging **development & data science**
+💻 **Full-Stack Developer | Problem Solver | Machine Learning Enthusiast**  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🔹 Languages  
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python" height="45" />  
-
-### 🔹 Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" height="45" />  
-
-### 🔹 Databases  
-<img src="https://skillicons.dev/icons?i=mongodb" height="45" />  
-
-### 🔹 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />  
+## 👨‍🎓 Education & Learning  
+- 🎓 **B.Tech in Computer Science & Engineering** (ABES Engineering College, Ghaziabad)  
+- 📚 Strong foundation in **Data Structures & Algorithms (DSA)**  
+- 🌱 Currently learning **Machine Learning** (CampusX, Python-based ML/AI curriculum)  
+- 🧩 Solved **350+ DSA questions on LeetCode**  
+- 🔍 Exploring **system design** and scalable architectures  
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Skills  
 
-![Rimjhim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsaxena4147&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsaxena4147&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=rsaxena4147&theme=tokyonight&hide_border=true)  
+**Languages**  
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python" height="40" />  
+
+**Frameworks & Libraries**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" height="40" />  
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" />  
+
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40" />  
 
 ---
 
-## 🐉 Contribution Animation  
+## 📊 GitHub Insights  
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rsaxena4147&theme=tokyo-night)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rsaxena4147&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaxena4147&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rsaxena4147&theme=github-dark&hide_border=true" height="160"/>
+</p>  
+
+---
+
+## 📌 Projects & Highlights  
+
+- 🌱 **[GreenChart](https://gogreen-frontend.onrender.com/)** –  
+  A sustainability-focused platform promoting green practices, built with the **MERN stack**.  
+
+- 🌍 **[Wanderlust](https://wanderlustproject-q3pk.onrender.com/)** –  
+  A travel accommodation platform (Airbnb-like) with **authentication, listings, and booking features**.  
+
+- 📝 **Notezy** –  
+  A note-taking application with **JWT + cookie-based authentication**, built using the **MERN stack**.  
+
+- 🧩 **350+ LeetCode Problems Solved** –  
+  Consistently practicing **Data Structures & Algorithms** to strengthen problem-solving ability.  
 
 ---
 
