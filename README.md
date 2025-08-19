@@ -15,30 +15,31 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+### 🔹 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python" height="45" />  
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+### 🔹 Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" height="45" />  
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+### 🔹 Databases  
+<img src="https://skillicons.dev/icons?i=mongodb" height="45" />  
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
+### 🔹 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Rimjhim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsaxena4147&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsaxena4147&layout=compact&theme=radical)  
+![Rimjhim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsaxena4147&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsaxena4147&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=rsaxena4147&theme=tokyonight&hide_border=true)  
+
+---
+
+## 🐉 Contribution Animation  
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rsaxena4147&theme=tokyo-night)  
 
 ---
 
