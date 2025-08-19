@@ -24,10 +24,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rimjhim-saxena/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/rsaxena4147" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://leetcode.com/rsaxena4147/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/profile/rsaxena4147" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+  <a href="https://leetcode.com/u/Rimjhim_535/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_white_no_text.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/rsaxena4147" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40"/>
+  </a>
   <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://instagram.com/rimjhim_saxenaa" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
@@ -49,3 +53,9 @@
 </p>
 
 ---
+
+## Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/rsaxena4147/rsaxena4147/blob/output/github-contribution-grid-snake.svg" alt="snake graph"/>
+</p>
