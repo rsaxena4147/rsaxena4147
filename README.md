@@ -55,9 +55,9 @@
 
 ---
 
-## Contribution Graph  
+## 🐉 Contribution Animation  
 
-<p align="center">
-  <!-- Ye tabhi dikhega jab aap workflow setup karoge -->
-  <img src="https://raw.githubusercontent.com/rsaxena4147/rsaxena4147/output/github-contribution-grid-snake.svg" alt="snake graph"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rsaxena4147&theme=tokyo-night)  
+
+---
+
