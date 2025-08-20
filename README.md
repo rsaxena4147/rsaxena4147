@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rimjhim Saxena</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver | Emerging ML Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Problem Solver </h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 📚 Strong foundation in **Data Structures & Algorithms (DSA)**  
 - 🌱 Currently learning **Machine Learning** (CampusX, Python-based ML/AI curriculum)  
 - 🧩 Solved **350+ DSA questions on LeetCode**  
-- 🔍 Exploring **system design** and scalable architectures  
+
 
 
 
