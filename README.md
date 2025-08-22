@@ -72,14 +72,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rimjhim-saxena/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/rsaxena4147" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://leetcode.com/rsaxena4147/" target="_blank">
+  <a href="https://leetcode.com/Rimjhim_535/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" width="40" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/profile/rsaxena4147" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/rimjhim_saxenaa/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
@@ -101,10 +101,12 @@
 </p>
 
 ---
-
-## 🐉 Contribution Animation  
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rsaxena4147&theme=tokyo-night)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsaxena4147/rsaxena4147/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rsaxena4147/rsaxena4147/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rsaxena4147/rsaxena4147/output/github-snake.svg" />
+</picture>
+  
 
 ---
 
